@@ -6,10 +6,10 @@
  - Basic auth can be enabled per album.
  - Comes as a single binary.
 
-You can either download a [release](https://github.com/fgeller/bilder/releases) or get it via
+You can either download a [release](https://github.com/runner28-code/bilder/releases) or get it via
 
 ```
-$ go get github.com/fgeller/bilder
+$ go get github.com/runner28-code/bilder
 ```
 
 [Here](https://felix.geller.io/bilder/b/kitties)'s a live demo to click around.
